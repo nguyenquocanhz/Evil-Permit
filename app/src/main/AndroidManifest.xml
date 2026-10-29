@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <!-- Privacy contract: this app never requests android.permission.INTERNET. CI enforces it. -->
+    <!-- Privacy contract: no network permission in the main app. CI fails if one is merged in. -->
 
     <application
         android:name=".EvilPermitApp"

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Evil Permit</string>
+    <string name="placeholder_subtitle">Deny unneeded permissions, by default</string>
+</resources>
